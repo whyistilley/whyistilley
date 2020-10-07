@@ -6,11 +6,11 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 
 ### What am I learning currently? 📓
 
-- Golang
-- Python 3
-- VueJS
-- NuxtJS
-- ReactJS
+- ![Golang](./resources/golang.png) Golang
+- ![Python](./resources/python.png) Python 3
+- ![VueJS](./resources/vue.png) VueJS
+- ![NuxtJS](./resources/nuxt.png) NuxtJS
+- ![ReactJS](./resources/react.png) ReactJS
 
 ### Eye Candy 🍬
 
