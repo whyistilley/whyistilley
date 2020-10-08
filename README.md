@@ -20,9 +20,15 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 
 ### Eye Candy 🍬
 
-![Patrick's github stats](https://github-readme-stats-five-tan.vercel.app/api?username=patrickdtilley&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide=stars,issues)
-
-![Patrick's github stats](https://github-readme-stats-five-tan.vercel.app/api/top-langs/?username=patrickdtilley&layout=compact&hide=html,css,javascript&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="github stats" align="center" src="https://github-readme-stats-five-tan.vercel.app/api?username=patrickdtilley&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+<br />
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="most used languages" align="center" src="https://github-readme-stats-five-tan.vercel.app/api/top-langs/?username=patrickdtilley&layout=compact&hide=html,css,javascript&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+<br />
+<br />
 
 ![](https://komarev.com/ghpvc/?username=patrickdtilley)  
-
