@@ -50,4 +50,5 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 ---
 
 > "We are what we repeatedly do. Excellence, then, is not an act, but a habit."  
+>
 > \- Will Durant
