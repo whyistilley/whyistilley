@@ -2,10 +2,14 @@
 
 ## Who am I ? 🤔
 
-I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus on Application Security working with both frontend and backend technologies!
+I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus on Application Security working with both frontend and backend technologies!  
 
-> We are what we repeatedly do. Excellence, then, is not an act, but a habit.  
-> \- Will durant
+- Part-time, self-employed Ghostbuster ![Ghostbusters Logo](./resources/ghostbusters.png) 
+- Photographer 📷
+- Lover of all things scary and horrific 🦇
+- Detester of Chocolate 🍫
+- Yes, I don't like chocolate 🤨
+- Yes, it's weird, but hey, now there's more for you 🎉
 
 ## What do I work with? 🚧
 
@@ -35,7 +39,7 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 &nbsp;
 [![PacktPub](./resources/packt.png)](https://www.packtpub.com)
 
-### Eye Candy 🍬
+## Eye Candy 🍬
 
 [![Pat's github stats](https://github-readme-stats-five-tan.vercel.app/api?username=whyistilley&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)  
 
@@ -43,3 +47,7 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 
 [![Profile views](https://komarev.com/ghpvc/?username=whyistilley)](https://github.com/antonkomarev/github-profile-views-counter)
 
+---
+
+> "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+> \- Will Durant
