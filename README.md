@@ -21,9 +21,15 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 &nbsp;
 [![NuxtJS](./resources/nuxt.png)](https://nuxtjs.org)
 &nbsp;
+[![Gridsome](./resources/gridsome.png)](https://gridsome.org)
+&nbsp;
 [![ReactJS](./resources/react.png)](https://reactjs.org)
 &nbsp;
+[![GatsbyJS](./resources/gatsby.png)](https://gatsbyjs.com)
+&nbsp;
 [![CSharp](./resources/csharp.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+&nbsp;
+[![Xamarin](./resources/xamarin.png)](https://docs.microsoft.com/en-us/xamarin/)
 
 ## Where do I learn things? 📓
 
@@ -38,6 +44,10 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 [![Vue Mastery](./resources/vuemastery.png)](https://vuemastery.com)
 &nbsp;
 [![PacktPub](./resources/packt.png)](https://www.packtpub.com)
+&nbsp;
+[![Microsoft Docs](./resources/microsoft.png)](https://docs.microsoft.com/en-us/learn/)
+&nbsp;
+[![Golang Docs](./resources/gopher.png)](https://golang.org/doc/)
 
 ## Eye Candy 🍬
 
