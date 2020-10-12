@@ -1,4 +1,7 @@
-# What's up? My name is Pat! 👋
+# What's up? My name is Pat! 👻
+
+![The Real Ghostbusters Artwork by Unknown Artist](./resources/the-real-ghostbusters-cartoon.jpg)
+
 
 ## Who am I ? 🤔
 
