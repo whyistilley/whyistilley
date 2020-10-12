@@ -51,9 +51,7 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 
 ## Eye Candy 🍬
 
-[![Pat's github stats](https://github-readme-stats-five-tan.vercel.app/api?username=whyistilley&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)  
-
-[![Pat's github languages](https://github-readme-stats-five-tan.vercel.app/api/top-langs/?username=whyistilley&hide=html,css,javascript&langs_count=10&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)  
+[![Pat's github stats](https://github-readme-stats-five-tan.vercel.app/api?username=whyistilley&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Profile views](https://komarev.com/ghpvc/?username=whyistilley)](https://github.com/antonkomarev/github-profile-views-counter)
 
