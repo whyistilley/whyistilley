@@ -6,8 +6,6 @@
 
 </p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=whyistilley)](https://github.com/antonkomarev/github-profile-views-counter)
-
 ## Who am I ? 🤔
 
 I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus on Application Security working with both frontend and backend technologies!  
@@ -74,6 +72,8 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 </a>
 
 </details>
+
+[![Profile views](https://komarev.com/ghpvc/?username=whyistilley)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ---
 
