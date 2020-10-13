@@ -2,10 +2,13 @@
 
 ![The Real Ghostbusters Artwork by Unknown Artist](./resources/the-real-ghostbusters-cartoon.jpg)
 
+[![Profile views](https://komarev.com/ghpvc/?username=whyistilley)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ## Who am I ? 🤔
 
 I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus on Application Security working with both frontend and backend technologies!  
+
+<img align="right" alt="GIF" src="https://github.com/whyistilley/whyistilley/blob/master/resources/quality-marshmallows.gif?raw=true" width="400" height="400" />
 
 - Part-time, self-employed Ghostbuster ![Ghostbusters Logo](./resources/ghostbusters.png) 
 - Photographer 📷
@@ -52,11 +55,17 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 &nbsp;
 [![Golang Docs](./resources/gopher.png)](https://golang.org/doc/)
 
-## Eye Candy 🍬
+<details>
 
-[![Pat's github stats](https://github-readme-stats-five-tan.vercel.app/api?username=whyistilley&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)  
+<summary>📈 My GitHub Stats</summary>
 
-[![Profile views](https://komarev.com/ghpvc/?username=whyistilley)](https://github.com/antonkomarev/github-profile-views-counter)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<p align="center"> <img src="https://github-readme-stats-five-tan.vercel.app/api?username=whyistilley&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="whyistilley" />
+
+</a>
+
+</details>
 
 ---
 
