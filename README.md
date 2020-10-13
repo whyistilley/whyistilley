@@ -57,6 +57,8 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 &nbsp;
 [![Golang Docs](./resources/gopher.png)](https://golang.org/doc/)
 
+---
+
 <details>
 
 <summary>📈 My GitHub Stats</summary>
