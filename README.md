@@ -1,6 +1,6 @@
 # What's up? My name is Pat! 👻
 
-![The Real Ghostbusters Artwork by Unknown Artist](./resources/the-real-ghostbusters-cartoon.jpg)
+<img align="center" alt="The Real Ghostbusters Artwork by Unknown Artist" src="https://github.com/whyistilley/whyistilley/blob/master/resources/the-real-ghostbusters-cartoon.jpg?raw=true" width="700" height="350" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=whyistilley)](https://github.com/antonkomarev/github-profile-views-counter)
 
