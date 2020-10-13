@@ -12,7 +12,7 @@
 
 I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus on Application Security working with both frontend and backend technologies!  
 
-<img align="right" alt="GIF" src="https://github.com/whyistilley/whyistilley/blob/master/resources/quality-marshmallows.gif?raw=true" width="300" height="300" />
+<img align="right" alt="GIF" src="https://github.com/whyistilley/whyistilley/blob/master/resources/quality-marshmallows.gif?raw=true" width="350" height="350" />
 
 - Part-time, self-employed Ghostbuster ![Ghostbusters Logo](./resources/ghostbusters.png) 
 - Photographer 📷
