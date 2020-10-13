@@ -59,6 +59,16 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 
 ---
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=whyistilley" alt="profile views" />
+
+</p>
+
+</a>
+
 <details>
 
 <summary>📈 My GitHub Stats</summary>
@@ -74,8 +84,6 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 </a>
 
 </details>
-
-[![Profile views](https://komarev.com/ghpvc/?username=whyistilley)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ---
 
