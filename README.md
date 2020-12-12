@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img alt="Ecto-1; Ghostbusters Afterlife; Sony Pictures" src="https://github.com/whyistilley/whyistilley/blob/master/resources/ghostbusters-2020.jpeg?raw=true" width="965" height="400" />
+<img alt="Ecto-1; Ghostbusters Afterlife; Sony Pictures" src="https://github.com/whyistilley/whyistilley/blob/master/resources/ghostbusters-2020.jpeg?raw=true" width="723" height="300" />
 
 </p>
 
