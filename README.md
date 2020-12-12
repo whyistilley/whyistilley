@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img alt="The Real Ghostbusters Artwork by Unknown Artist" src="https://github.com/whyistilley/whyistilley/blob/master/resources/the-real-ghostbusters-cartoon.jpg?raw=true" width="800" height="400" />
+<img alt="Ecto-1; Ghostbusters Afterlife; Sony Pictures" src="https://github.com/whyistilley/whyistilley/blob/master/resources/ghostbusters-2020.jpeg?raw=true" width="965" height="400" />
 
 </p>
 
