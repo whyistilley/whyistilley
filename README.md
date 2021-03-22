@@ -56,6 +56,8 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 [![Microsoft Docs](./resources/microsoft.png)](https://docs.microsoft.com/en-us/learn/)
 &nbsp;
 [![Golang Docs](./resources/gopher.png)](https://golang.org/doc/)
+&nbsp;
+[![Udemy](./resources/udemy.png)](https://udemy.com)
 
 ---
 
