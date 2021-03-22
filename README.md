@@ -17,7 +17,7 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 - Lover of all things scary and horrific 🦇
 - Detester of Chocolate 🍫
 - Yes, I don't like chocolate 🤨
-- Yes, it's weird, but hey, now there's more for you 🎉
+- Yes, it's weird, but we're here to make cool shit 🎉
 
 ## What do I work with? 🚧
 
