@@ -61,16 +61,4 @@ I am a Software Developer [@mailgun](https://mailgun.com) with a primary focus o
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-
-<p align="center">
-
-<img src="https://github-readme-stats-five-tan.vercel.app/api/top-langs/?username=whyistilley&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=10&hide=css,html,javascript" alt="whyistilley most used languages" />
-
-</p>
-
-</a>
-
----
-
 > "We are what we repeatedly do. Excellence, then, is not an act, but a habit." \- Will Durant
